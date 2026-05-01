@@ -1,0 +1,12 @@
+openai
+tiktoken
+python-dotenv
+requests
+beautifulsoup4
+lxml
+langchain
+faiss-cpu
+langchain-community
+langchain-openai
+langchain-core
+openai-whisper
